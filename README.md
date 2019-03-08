@@ -1,6 +1,6 @@
-# PAT-Basic-Level-Practice
+# PAT-Basic_Level-Practice
 
-ZJU-PAT (Basic Level) Practice 代码（C与C++实现）
+ZJU-PAT (Basic_Level) Practice 代码（C与C++实现）
 
 考研结束，在刷PAT乙级题目的过程中，一直是使用CSDN博客记录自己的学习过程以及代码。
 
